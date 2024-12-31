@@ -59,12 +59,13 @@ export const profileConfig: ProfileConfig = {
       name: 'Github',
       icon: 'fa6-brands:github',
       url: 'https://github.com/AsOne2020/',
-    },
-    {
-      name: 'Gitee',
-      icon: 'simple-icons:gitee',
-      url: 'https://gitee.com/AsOne2048',
-    },
+    }
+    // ,
+    // {
+    //   name: 'Gitee',
+    //   icon: 'simple-icons:gitee',
+    //   url: 'https://gitee.com/AsOne2048',
+    // },
   ],
 }
 
