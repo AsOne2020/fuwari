@@ -61,7 +61,12 @@ export const profileConfig: ProfileConfig = {
 			name: 'Github',
 			icon: 'fa6-brands:github',
 			url: 'https://github.com/AsOne2020/',
-		}
+		},
+		{
+			name: 'E-Mail',
+			icon: 'fa6-solid:envelope',
+			url: 'mailto:AsOne2048@gmail.com',
+		},
 	],
 };
 
