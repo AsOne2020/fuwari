@@ -1,15 +1,28 @@
-# 关于我
+# 关于我 👋
 
 你好！我是 **As_One**，一个 Minecraft 玩家。
 
+---
+
 ## 👨‍💻 个人档案
 
-你可以在以下地方找到我。
+你可以在这些地方找到我：
 
-* **GMail**: [asone2048@gmail.com](mailto:asone2048@gmail.com)
-* **GitHub**: [AsOne2020](https://github.com/AsOne2020)
-* **Modrinth**: [AsOne2020](https://modrinth.com/user/AsOne2020)
-* **BiliBili**: [As_One_ 的空间](https://space.bilibili.com/259168987)
+- 📧 **GMail**：<asone2048@gmail.com>
+- 🐙 **GitHub**：[AsOne2020](https://github.com/AsOne2020)
+- 🧩 **Modrinth**：[AsOne2020](https://modrinth.com/user/AsOne2020)
+- 📺 **BiliBili**：[As_One_ 的空间](https://space.bilibili.com/259168987)
+
+---
+
+## ⛏️ Minecraft 服务器
+
+> 服务器地址：`mc.asone2020.top`
+
+<iframe
+src="https://list.mczfw.com/mc/mc.asone2020.top.png"
+style="width:728px;height:90px;max-width:100%;border:none;display:block;margin:auto">
+</iframe>
 
 ---
 
