@@ -19,10 +19,7 @@
 
 > 服务器地址：`mc.asone2020.top`
 
-<iframe
-src="https://list.mczfw.com/mc/mc.asone2020.top.png"
-style="width:728px;height:90px;max-width:100%;border:none;display:block;margin:auto">
-</iframe>
+<iframe style="width:728px;height:90px;max-width:100%;border:none;display:block;margin:auto" src="https://namemc.com/server/mc.asone2020.top/embed" width="728" height="90"></iframe>
 
 ---
 
